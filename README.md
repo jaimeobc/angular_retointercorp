@@ -1,5 +1,5 @@
 # angular_retointercorp
-Fuentes del Angula para el reto de Intercorp
+Fuentes del Angular para el reto de Intercorp
 
 El aplicativo levanta en el url:
 http://localhost:4200/clientes
